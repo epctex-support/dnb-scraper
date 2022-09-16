@@ -28,7 +28,7 @@ If you're new to the world of web scraping, you should check out our [Beginner's
 To learn more about using Apify, read our [quick start guide](https://docs.apify.com/tutorials/quick-start#run-an-actor) to using any [Apify actor](https://apify.com/actors).
 
 ## Tip
-DnB has a geo-location based protection system. That's why you should always use US based proxies. On Apify, you can use `SHADER` proxy group.
+DnB has a geo-location based protection system. That's why you should always use US based proxies.
 
 ## Setup & Usage
 
@@ -234,4 +234,4 @@ The structure of each industry scraped from DnB looks like this:
 
 ## Bugs, fixes, updates, and changelog
 
-This scraper is under active development. If you have any feature requests you can create an issue from [here](https://github.com/tugkan/dnb-scraper/issues).
+This scraper is under active development. If you have any feature requests you can create an issue from [here](https://github.com/epctex/dnb-scraper/issues).
