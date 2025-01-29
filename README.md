@@ -215,4 +215,4 @@ The structure of each industry scraped from DnB looks like this:
 This scraper is under active development. If you have any feature requests you can create an issue from [here](https://github.com/epctex/dnb-scraper/issues).
 
 ## Contact
-Please visit us through [epctex.com](https://epctex.com) to see all the products that are available for you. If you are looking for any custom integration or so, please reach out to us through the chat box in [epctex.com](https://epctex.com). In need of support? [devops@epctex.com](mailto:devops@epctex.com) is at your service.
+Please visit us through [epctex.com](https://epctex.com) to see all the products that are available for you. If you are looking for any custom integration or so, please reach out to us through the chat box in [epctex.com](https://epctex.com). In need of support? [business@epctex.com](mailto:business@epctex.com) is at your service.
